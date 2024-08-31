@@ -9,20 +9,20 @@ but it's not in HLSL, so I converted it to use it in Unity with Shader Graph.
 [Twitter/X](https://x.com/TheMirzaBeig/)
 
 
---
+
 Just a guy making games.
 Exploring the world of game development with Unity tutorials, coding tips, and shader magic, and fixing bugs.
 game-related, sometimes not.
---
-
-##🔥follow my YouTube @GameDevBox to find more Tutorials and Tips: [Youtube](https://www.youtube.com/channel/UCgXs2PTiL19Rv1qOn1SI7XQ)
 
 
-##🔥see the tutorial for how you can set it up: https://youtu.be/oe3bxapfURQ
+🔥follow my YouTube @GameDevBox to find more Tutorials and Tips: [GameDevBox](https://www.youtube.com/channel/UCgXs2PTiL19Rv1qOn1SI7XQ)
+
+
+🔥see the tutorial for how you can set it up: https://youtu.be/oe3bxapfURQ
 
 - Tested with Unity 6000.15f1. 
 
---
+
 😺Follow me on other Social Media: 
 • X:
 https://x.com/ArianKhatiban
@@ -36,4 +36,4 @@ https://discord.gg/8hpGqBgXmz
 https://cloudtears.itch.io/
 • Youtube Subscribe:
 https://www.youtube.com/channel/UCgXs2PTiL19Rv1qOn1SI7XQ?sub_confirmation=1
---
+
