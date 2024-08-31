@@ -23,7 +23,7 @@ game-related, sometimes not.
 - Tested with Unity 6000.15f1. 
 
 
-😺Follow me on other Social Media: 
+## Social Media: 
 • [X/Twitter](https://x.com/ArianKhatiban)
 • [Instagram](https://www.instagram.com/arian.khatiban):
 • [LinkedIn](https://www.linkedin.com/in/arian-khatiban-49b30017a/):
